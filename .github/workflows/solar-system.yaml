@@ -34,5 +34,5 @@ jobs:
               uses: actions/upload-artifact@v4
               with:
                 name: Mocha-Test-Results
-                path: solar-test-results.xml
+                path: test-results.xml
 
